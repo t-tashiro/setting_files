@@ -3,6 +3,9 @@ if has("mouse") " Enable the use of the mouse in all modes
   set mouse=a
 endif
 
+set encoding=utf8
+set fenc=utf-8
+
 "---------------------------------------------------------------------------
 " 編集に関する設定:
 "
