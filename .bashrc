@@ -1,3 +1,4 @@
+export LSCOLORS=gxfxcxdxbxegedabagacad
 alias ls='ls -AFG'
 alias ll='ls -hl'
 alias vi='vim'
